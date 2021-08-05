@@ -1,0 +1,18 @@
+C:\Users\Sergio\AppData\Local\Temporary Projects\ConsoleApp_menu\bin\Debug\ConsoleApp_menu.exe.config
+C:\Users\Sergio\AppData\Local\Temporary Projects\ConsoleApp_menu\bin\Debug\ConsoleApp_menu.exe
+C:\Users\Sergio\AppData\Local\Temporary Projects\ConsoleApp_menu\bin\Debug\ConsoleApp_menu.pdb
+C:\Users\Sergio\AppData\Local\Temporary Projects\ConsoleApp_menu\bin\Debug\ConsoleApp_menu.xml
+C:\Users\Sergio\AppData\Local\Temporary Projects\ConsoleApp_menu\obj\Debug\ConsoleApp_menu.Resources.resources
+C:\Users\Sergio\AppData\Local\Temporary Projects\ConsoleApp_menu\obj\Debug\ConsoleApp_menu.vbproj.GenerateResource.Cache
+C:\Users\Sergio\AppData\Local\Temporary Projects\ConsoleApp_menu\obj\Debug\ConsoleApp_menu.exe
+C:\Users\Sergio\AppData\Local\Temporary Projects\ConsoleApp_menu\obj\Debug\ConsoleApp_menu.xml
+C:\Users\Sergio\AppData\Local\Temporary Projects\ConsoleApp_menu\obj\Debug\ConsoleApp_menu.pdb
+D:\Programmazione\vb.net\2012\ConsoleApp_menu\ConsoleApp_menu\bin\Debug\ConsoleApp_menu.exe.config
+D:\Programmazione\vb.net\2012\ConsoleApp_menu\ConsoleApp_menu\obj\Debug\ConsoleApp_menu.exe
+D:\Programmazione\vb.net\2012\ConsoleApp_menu\ConsoleApp_menu\obj\Debug\ConsoleApp_menu.xml
+D:\Programmazione\vb.net\2012\ConsoleApp_menu\ConsoleApp_menu\obj\Debug\ConsoleApp_menu.pdb
+D:\Programmazione\vb.net\2012\ConsoleApp_menu\ConsoleApp_menu\bin\Debug\ConsoleApp_menu.exe
+D:\Programmazione\vb.net\2012\ConsoleApp_menu\ConsoleApp_menu\bin\Debug\ConsoleApp_menu.pdb
+D:\Programmazione\vb.net\2012\ConsoleApp_menu\ConsoleApp_menu\bin\Debug\ConsoleApp_menu.xml
+D:\Programmazione\vb.net\2012\ConsoleApp_menu\ConsoleApp_menu\obj\Debug\ConsoleApp_menu.Resources.resources
+D:\Programmazione\vb.net\2012\ConsoleApp_menu\ConsoleApp_menu\obj\Debug\ConsoleApp_menu.vbproj.GenerateResource.Cache
