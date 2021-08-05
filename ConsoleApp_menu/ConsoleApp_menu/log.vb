@@ -22,7 +22,7 @@ Module log
     End Sub
 
     Public Function ByteUnitConvert(ByVal ByteCount As Integer) As String
-
+dim x = ""
         Dim SetBytes As String = ""
         If ByteCount >= 1073741824 Then
             SetBytes = String.Format(ByteCount / 1024 / 1024 / 1024, "#0.00") & " GB"
